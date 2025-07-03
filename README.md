@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stacks
 
 ### 🚀 Programming Languages
 <div align="center">
