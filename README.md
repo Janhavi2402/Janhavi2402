@@ -38,7 +38,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
+---
 
 ### 🌐 Let's Connect!
 
@@ -48,7 +48,25 @@
 
 
 ---
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavi2402&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavi2402&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janhavi2402&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janhavi2402&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 ### 🔥 GitHub Stats
 
 <p align="center">
