@@ -62,9 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janhavi2402&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janhavi2402&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+
 
 ---
 
